@@ -1,0 +1,10 @@
+1,1,0,main.out
+2,2,0,main.a[0]
+3,3,0,main.a[1]
+4,4,0,main.a[2]
+5,5,0,main.a[3]
+6,6,0,main.a[4]
+7,7,0,main.intermediate[0]
+8,8,0,main.intermediate[1]
+9,9,0,main.intermediate[2]
+10,-1,0,main.intermediate[3]
